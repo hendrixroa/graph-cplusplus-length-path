@@ -1,0 +1,22 @@
+1 0 0 1
+0 1 0 1
+0 0 1 1
+0 0 0 1
+
+Caminos de longotud 1
+V1 a V1= V1 V1
+V1 a V4= V1 V4
+V2 a V2= V2 V2
+V2 a V4= V2 V4
+V3 a V3= V3 V3
+V3 a V4= V3 V4
+V4 a V4= V4 V4
+
+Caminos de longitud 2
+V1 a V1= V1 V1 V1
+V1 a V4= V1 V4 V4
+V2 a V2= V2 V2 V2
+V2 a V4= V2 V4 V4
+V3 a V3= V3 V3 V3
+V3 a V4= V3 V4 V4
+V4 a V4= V4 V4 V4

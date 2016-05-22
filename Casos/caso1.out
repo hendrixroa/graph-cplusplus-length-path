@@ -1,0 +1,27 @@
+1 0 1
+1 1 1
+1 1 1
+
+Caminos de longitud 1
+V1 a V2= V1 V2
+V2 a V3= V2 V3
+V3 a V1= V3 V1
+V3 a V3= V3 V3
+
+Caminos de longitud 2
+V1 a V3= V1 V2 V3
+V2 a V1= V2 V3 V1
+V2 a V3= V2 V3 V3
+V3 a V1= V3 V3 V1
+V3 a V2= V3 V1 V2
+V3 a V3= V3 V3 V3
+
+Caminos de longitud 3
+V1 a V1= V1 V2 V3 V1
+V1 a V3= V1 V2 V3 V3
+V2 a V1= V2 V3 V3 V1
+V2 a V2= V2 V3 V1 V2
+V2 a V3= V2 V3 V3 V3
+V3 a V1= V3 V3 V3 V1
+V3 a V2= V3 V3 V1 V2
+V3 a V3= V3 V1 V2 V3
